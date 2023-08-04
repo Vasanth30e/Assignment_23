@@ -1,0 +1,6 @@
+D:\Training\C#\Day 20\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+D:\Training\C#\Day 20\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+D:\Training\C#\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+D:\Training\C#\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+D:\Training\C#\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
